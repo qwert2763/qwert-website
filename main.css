@@ -11,3 +11,9 @@ h1 {text-align: center; color: rgb(3, 3, 59); font-family: Cambria, Cochin, Geor
     button {float: none; font-size: 150%; margin-left: 33.75%; margin-right: 25%; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;}
 
 p {text-align:center; font-weight: bold; font-size: large; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif; color: rgb(rgb(8, 23, 41))}
+
+.iconclass
+{
+    width: 20%;
+    height: 20%;
+}
