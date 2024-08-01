@@ -1,5 +1,5 @@
 h1 {text-align: center; color: rgb(3, 3, 59); font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;}
-    body {background-image: url(bg.png);}
+    body {background-image: url(bg.png); background-size: 5%;}
 
     img {
         width: 50%;
